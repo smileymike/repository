@@ -7,7 +7,7 @@ Git repository.
 '''
 
 # Checkout HEAD status
-# Alt+Ctrl+Z
+# Alt+Ctrl+Z        yet to work
 
 # Git status list
-# Ctrl+Shift+B 
+# Ctrl+Shift+B
